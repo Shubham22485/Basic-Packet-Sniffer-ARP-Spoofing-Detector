@@ -343,3 +343,4 @@ The sniffer thread continuously captures packets via Scapy's `sniff()`, while an
 
 ## 📜 License
 
+Released under the **MIT License**. See [LICENSE](LICENSE) for details.
